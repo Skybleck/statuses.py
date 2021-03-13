@@ -1,2 +1,3 @@
-# statuses.py
-This is for discord bot statuses for python! :D
+INSTRUCTIONS IN FILE.
+
+This file has all the bot.py statues for discord bots.
